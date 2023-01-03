@@ -9,5 +9,5 @@ This NFT contract includes the following features:
 - A total supply variable to keep track of the number of NFTs that have been minted.
 - A mint function to create a new NFT.
 - A transferFrom function to transfer an NFT from one address to another.
--
+
 This NFT contract also extends the Safe
